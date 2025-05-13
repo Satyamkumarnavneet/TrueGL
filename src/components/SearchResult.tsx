@@ -57,12 +57,12 @@ const SearchResult: React.FC<SearchResultProps> = ({ result }) => {
   const [isLoadingJustification, setIsLoadingJustification] = useState(false);
   const domain = getDomain(result.url);
 
-  // Memoize score and bias so they are constant for this result
-  const { score, bias } = useMemo(() => {
+  // Memoize score so it is constant for this result
+  const score = useMemo(() => {
     const rectifiedData = getRectifiedData(domain);
     return rectifiedData
-      ? { score: parseFloat(rectifiedData.score), bias: rectifiedData.bias }
-      : getFallbackScoreAndBias();
+      ? parseFloat(rectifiedData.score)
+      : getFallbackScoreAndBias().score;
   }, [domain]);
 
   const scaledScore = score * 100; // Scale score to 100%
@@ -123,8 +123,7 @@ const SearchResult: React.FC<SearchResultProps> = ({ result }) => {
               style={{ width: `${animatedScore}%` }}
             ></div>
           </div>
-          <span className="px-3 py-1 rounded-full bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 text-xs font-semibold shadow-sm">{animatedScore.toFixed(0)}%</span>
-          <span className="px-3 py-1 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-800 dark:text-gray-200 text-xs font-semibold shadow-sm">Bias: {bias}</span>
+          <span className="px-3 py-1 rounded-full bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 text-xs font-semibold shadow-sm">{animatedScore.toFixed(0)}% Reliable </span>
           <span className="px-3 py-1 rounded-full bg-green-100 dark:bg-green-900 text-green-800 dark:text-green-200 text-xs font-semibold shadow-sm">Model: TrueGL</span>
         </div>
       </div>
@@ -146,21 +145,26 @@ const SearchResult: React.FC<SearchResultProps> = ({ result }) => {
       </div>
 
       {showJustification && (
-        <div className="mt-6 flex flex-col md:flex-row md:items-start md:space-x-4 bg-gradient-to-r from-blue-50 via-white to-green-50 dark:from-blue-950 dark:via-slate-800 dark:to-green-950 rounded-xl px-4 py-3 border border-blue-100 dark:border-blue-900 shadow-inner animate-fade-in">
-          <span className="font-semibold text-gray-700 dark:text-gray-200 text-sm mr-2 mb-1 md:mb-0 min-w-fit">Truth Justification:</span>
-          <div className="flex-1 flex flex-col flex-wrap gap-2 items-start">
-            {isLoadingJustification ? (
-              <div className="flex items-center justify-center w-full py-4">
-                <div className="animate-spin rounded-full h-6 w-6 border-b-2 border-blue-500"></div>
-                <span className="ml-2 text-gray-600 dark:text-gray-300">Analyzing content...</span>
-              </div>
-            ) : (
-              <p className="text-gray-700 dark:text-gray-300 text-sm">{justification || "(Generating justification...)"}</p>
-            )}
+        <>
+          <div className="mt-6 flex flex-col md:flex-row md:items-start md:space-x-4 bg-gradient-to-r from-blue-50 via-white to-green-50 dark:from-blue-950 dark:via-slate-800 dark:to-green-950 rounded-xl px-4 py-3 border border-blue-100 dark:border-blue-900 shadow-inner animate-fade-in">
+            <span className="font-semibold text-gray-700 dark:text-gray-200 text-sm mr-2 mb-1 md:mb-0 min-w-fit">Reliability Justification:</span>
+            <div className="flex-1 flex flex-col flex-wrap gap-2 items-start">
+              {isLoadingJustification ? (
+                <div className="flex items-center justify-center w-full py-4">
+                  <div className="animate-spin rounded-full h-6 w-6 border-b-2 border-blue-500"></div>
+                  <span className="ml-2 text-gray-600 dark:text-gray-300">Analyzing content...</span>
+                </div>
+              ) : (
+                <p className="text-gray-700 dark:text-gray-300 text-sm">{justification || "(Generating justification...)"}</p>
+              )}
+            </div>
           </div>
-        </div>
+          <div className="mt-3 px-4 py-2 bg-gray-100 dark:bg-slate-700 text-gray-600 dark:text-gray-300 text-xs rounded-md border border-gray-200 dark:border-slate-600">
+            Disclaimer: The results provided by the TrueGL model are for reference purposes only. Do not rely solely on the model's output, as no AI system is 100% accurate.
+          </div>
+        </>
       )}
-      </div>
+    </div>
   );
 };
 
