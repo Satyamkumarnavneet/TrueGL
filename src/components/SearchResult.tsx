@@ -110,7 +110,7 @@ const SearchResult: React.FC<SearchResultProps> = ({ result }) => {
   };
 
   return (
-    <div className="w-full max-w-7xl mx-auto bg-white dark:bg-slate-800 rounded-lg shadow-lg border border-gray-100 dark:border-slate-700 hover:shadow-2xl transition-all duration-300 px-10 py-4 sm:px-14 sm:py-6 mb-8 flex flex-col gap-4 hover:bg-blue-50/40 dark:hover:bg-slate-800/80">
+    <div className="w-full max-w-full mx-auto bg-white dark:bg-slate-800 rounded-lg shadow-lg border border-gray-100 dark:border-slate-700 hover:shadow-2xl transition-all duration-300 px-6 sm:px-8 py-4 sm:py-6 mb-8 flex flex-col gap-4 hover:bg-blue-50/40 dark:hover:bg-slate-800/80">
       <div className="flex flex-col md:flex-row md:justify-between md:items-center mb-3 gap-4">
         <div className="flex items-center space-x-2 text-xs">
           <a href={result.url} target="_blank" rel="noopener noreferrer" className="hover:underline font-mono text-blue-700 dark:text-blue-300 break-all text-sm sm:text-base">{domain}</a>

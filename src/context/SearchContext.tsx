@@ -41,12 +41,12 @@ export const SearchProvider: React.FC<SearchProviderProps> = ({ children }) => {
   const [filters, setFilters] = useState<SearchFilters>({});
   const [sort, setSort] = useState<string>('');
 
-  const performSearch = useCallback(async (query: string, page: number = 1) => {
+  const performSearch = useCallback(async (query: string, offset: number = 0) => {
     setLoading(true);
     setError(null);
 
     try {
-      console.log('Performing search with query:', query, 'page:', page, 'filters:', filters);
+      console.log(`SearchContext: Performing search with query="${query}", offset=${offset}`);
       
       const response = await fetch('http://localhost:8000/search', {
         method: 'POST',
@@ -56,7 +56,7 @@ export const SearchProvider: React.FC<SearchProviderProps> = ({ children }) => {
         },
         body: JSON.stringify({
           query,
-          page,
+          offset,
           per_page: 10,
           filters,
         }),
@@ -74,7 +74,7 @@ export const SearchProvider: React.FC<SearchProviderProps> = ({ children }) => {
         throw new Error('Invalid response format from server');
       }
 
-      console.log('Search successful, received results:', data.results.length);
+      console.log(`SearchContext: Search successful, received ${data.results.length} results for offset ${offset}`);
       setResults(data.results);
     } catch (err) {
       console.error('Search error:', err);

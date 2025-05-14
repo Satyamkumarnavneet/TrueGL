@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useSearchParams, useNavigate } from 'react-router-dom';
 import { useSearch } from '../context/SearchContext';
 import SearchResult from '../components/SearchResult';
@@ -10,18 +10,41 @@ const ResultsPage: React.FC = () => {
   const { results, loading, error, performSearch } = useSearch();
   const query = searchParams.get('q');
   const page = parseInt(searchParams.get('page') || '1');
-  // Placeholder: Assume 100 total results, 10 per page
-  const totalResults = 100; // Replace with real value if available
   const perPage = 10;
+  
+  // Calculate offset based on page number and items per page
+  const offset = (page - 1) * perPage;
+  
+  // Track last executed search parameters to help debug pagination issues
+  const [lastSearchQuery, setLastSearchQuery] = useState<string | null>(null);
+  const [lastSearchOffset, setLastSearchOffset] = useState<number | null>(null);
+  
+  // Use the total count from API response if available
+  const totalResults = 100; // Replace with actual value from API response
   const totalPages = Math.ceil(totalResults / perPage);
 
   useEffect(() => {
     if (query) {
-      performSearch(query, page);
+      console.log(`Executing search: query=${query}, page=${page}, offset=${offset}`);
+      
+      // Only perform search if query or offset changed
+      if (query !== lastSearchQuery || offset !== lastSearchOffset) {
+        performSearch(query, offset);
+        setLastSearchQuery(query);
+        setLastSearchOffset(offset);
+      }
     } else {
       navigate('/');
     }
-  }, [query, page, performSearch, navigate]);
+  }, [query, page, offset, performSearch, navigate, lastSearchQuery, lastSearchOffset]);
+
+  // Reset tracking state when component unmounts
+  useEffect(() => {
+    return () => {
+      setLastSearchQuery(null);
+      setLastSearchOffset(null);
+    };
+  }, []);
 
   if (loading) {
     return (
@@ -51,7 +74,7 @@ const ResultsPage: React.FC = () => {
 
   return (
     <div className="w-full min-h-screen bg-slate-50 dark:bg-slate-900 px-2 md:px-0 py-8 flex flex-col items-center">
-      <div className="w-full max-w-4xl mx-auto">
+      <div className="w-full max-w-7xl mx-auto">
         {query && (
           <div className="mb-8 text-center">
             <h1 className="text-3xl font-bold text-gray-900 dark:text-gray-100 mb-2">
@@ -85,7 +108,13 @@ const ResultsPage: React.FC = () => {
           <div className="mt-12 flex justify-center">
             <nav className="flex items-center space-x-2 bg-white dark:bg-slate-800 rounded-lg shadow border border-gray-200 dark:border-slate-700 px-4 py-2">
               <button
-                onClick={() => navigate(`/search?q=${query}&page=${page - 1}`)}
+                onClick={() => {
+                  if (page > 1) {
+                    const newPage = page - 1;
+                    console.log(`Navigating to page ${newPage}, new offset will be ${(newPage - 1) * perPage}`);
+                    navigate(`/search?q=${encodeURIComponent(query || '')}&page=${newPage}`);
+                  }
+                }}
                 disabled={page === 1}
                 className="px-3 py-1 rounded-md border border-gray-300 dark:border-slate-600 text-sm font-medium text-gray-700 dark:text-gray-200 bg-white dark:bg-slate-900 hover:bg-gray-50 dark:hover:bg-slate-700 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
               >
@@ -95,8 +124,14 @@ const ResultsPage: React.FC = () => {
                 Page {page} of {totalPages}
               </span>
               <button
-                onClick={() => navigate(`/search?q=${query}&page=${page + 1}`)}
-                disabled={page >= totalPages}
+                onClick={() => {
+                  if (page < totalPages) {
+                    const newPage = page + 1;
+                    console.log(`Navigating to page ${newPage}, new offset will be ${(newPage - 1) * perPage}`);
+                    navigate(`/search?q=${encodeURIComponent(query || '')}&page=${newPage}`);
+                  }
+                }}
+                disabled={page >= totalPages || results.length < perPage}
                 className="px-3 py-1 rounded-md border border-gray-300 dark:border-slate-600 text-sm font-medium text-gray-700 dark:text-gray-200 bg-white dark:bg-slate-900 hover:bg-gray-50 dark:hover:bg-slate-700 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
               >
                 Next
