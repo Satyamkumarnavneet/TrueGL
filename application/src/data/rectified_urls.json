@@ -1,0 +1,2362 @@
+[
+    {
+        "website": "https://www.nationalgeographic.com/",
+        "score": "0.9",
+        "bias": "Pro-Science"
+    },
+    {
+        "website": "https://www.bbc.com/",
+        "score": "0.9",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.2paragraphsbiasandcredibility.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.1stheadlinesbiasandcredibility.com/",
+        "score": "0.5",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.acttv.com/",
+        "score": "0.772",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.mentalfloss.com/",
+        "score": "0.9",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.jstor.com/",
+        "score": "1",
+        "bias": "Pro-Science"
+    },
+    {
+        "website": "https://abcnews.go.com/",
+        "score": "0.9",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.cnn.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.foxnews.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.reuters.com/",
+        "score": "0.9",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.thenewyorktimes.com/",
+        "score": "0.677",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.wsj.com/",
+        "score": "0.74",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.washingtonpost.com/",
+        "score": "0.788",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.breitbart.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.thedailycaller.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://thehill.com/",
+        "score": "0.692",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.politico.com/",
+        "score": "0.729",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.npr.org/",
+        "score": "0.9",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.scientificamerican.com/",
+        "score": "0.9",
+        "bias": "Pro-Science"
+    },
+    {
+        "website": "https://www.nature.com/",
+        "score": "1",
+        "bias": "Pro-Science"
+    },
+    {
+        "website": "https://www.theguardian.com/",
+        "score": "0.715",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.aljazeera.com/",
+        "score": "0.69",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.buzzfeednews.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.vox.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.theatlantic.com/",
+        "score": "0.752",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.timemagazine.com/",
+        "score": "0.761",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.newsweek.com/",
+        "score": "0.705",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.forbes.com/",
+        "score": "0.785",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.bloomberg.com/",
+        "score": "0.738",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.cbsnews.com/",
+        "score": "0.707",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.nbcnews.com/",
+        "score": "0.8",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.msnbc.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.associatedpress.com/",
+        "score": "0.9",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.axios.com/",
+        "score": "0.742",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.usatoday.com/",
+        "score": "0.754",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.theepochtimes.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.dailymail.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.thetelegraph.com/",
+        "score": "0.739",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.theindependent.com/",
+        "score": "0.701",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.skynews.com/",
+        "score": "0.761",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.newscientist.com/",
+        "score": "0.9",
+        "bias": "Pro-Science"
+    },
+    {
+        "website": "https://www.arstechnica.com/",
+        "score": "0.9",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.wired.com/",
+        "score": "0.774",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.techcrunch.com/",
+        "score": "0.668",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.theverge.com/",
+        "score": "0.779",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.slate.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.salon.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.dailykos.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.huffpost.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.addictinginfo.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.alternet.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.sciencedaily.com/",
+        "score": "0.9",
+        "bias": "Pro-Science"
+    },
+    {
+        "website": "https://www.nasa.com/",
+        "score": "1",
+        "bias": "Pro-Science"
+    },
+    {
+        "website": "https://www.economist.com/",
+        "score": "0.689",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.financialtimes.com/",
+        "score": "0.703",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.christiansciencemonitor.com/",
+        "score": "0.9",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.pbs.com/",
+        "score": "0.9",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.abc.net.au/news/",
+        "score": "0.9",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thetimesuk.com/",
+        "score": "0.763",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.dailymirror.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.thesun.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.newyorkpost.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.washingtontimes.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.nationalreview.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.reason.com/",
+        "score": "0.762",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thefederalist.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.dailywire.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.newsmax.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.oann.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.theblaze.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.infowars.com/",
+        "score": "0.1",
+        "bias": "Conspiracy"
+    },
+    {
+        "website": "https://www.thegatewaypundit.com/",
+        "score": "0.1",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.occupydemocrats.com/",
+        "score": "0.3",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.motherjones.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.thenation.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.propublica.com/",
+        "score": "0.771",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://theintercept.com/",
+        "score": "0.735",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.democracynow.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.commondreams.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.counterpunch.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.thecanary.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.electronicintifada.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.truthout.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.mediabuzz.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.freebeacon.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.americanspectator.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.heritagefoundation.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.catoinstitute.com/",
+        "score": "0.697",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.aei.org/",
+        "score": "0.659",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.sciencenews.com/",
+        "score": "0.9",
+        "bias": "Pro-Science"
+    },
+    {
+        "website": "https://www.physorg.com/",
+        "score": "0.9",
+        "bias": "Pro-Science"
+    },
+    {
+        "website": "https://www.discovermagazine.com/",
+        "score": "0.9",
+        "bias": "Pro-Science"
+    },
+    {
+        "website": "https://www.popularscience.com/",
+        "score": "0.9",
+        "bias": "Pro-Science"
+    },
+    {
+        "website": "https://www.psychologytoday.com/",
+        "score": "0.9",
+        "bias": "Pro-Science"
+    },
+    {
+        "website": "https://www.healthline.com/",
+        "score": "0.9",
+        "bias": "Pro-Science"
+    },
+    {
+        "website": "https://www.thedailybeast.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.newsnation.com/",
+        "score": "0.739",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.quantamagazine.com/",
+        "score": "0.9",
+        "bias": "Pro-Science"
+    },
+    {
+        "website": "https://www.rawstory.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.thinkprogress.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.townhall.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.redstate.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.livescience.com/",
+        "score": "0.9",
+        "bias": "Pro-Science"
+    },
+    {
+        "website": "https://www.smithsonianmagazine.com/",
+        "score": "0.9",
+        "bias": "Pro-Science"
+    },
+    {
+        "website": "https://www.theconversation.com/",
+        "score": "0.9",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.foreignpolicy.com/",
+        "score": "0.657",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.theweek.com/",
+        "score": "0.707",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.nationalgeographicnews.com/",
+        "score": "0.9",
+        "bias": "Pro-Science"
+    },
+    {
+        "website": "https://www.patch.com/",
+        "score": "0.751",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.themorningcall.com/",
+        "score": "0.791",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.latimes.com/",
+        "score": "0.689",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.chicagotribune.com/",
+        "score": "0.733",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.bostonglobe.com/",
+        "score": "0.798",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.miamiherald.com/",
+        "score": "0.74",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.dallasmorningnews.com/",
+        "score": "0.7",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thephiladelphiainquirer.com/",
+        "score": "0.744",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.denverpost.com/",
+        "score": "0.796",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.houstonchronicle.com/",
+        "score": "0.757",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.seattletimes.com/",
+        "score": "0.721",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.sanfranciscochronicle.com/",
+        "score": "0.735",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.startribune.com/",
+        "score": "0.69",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.arizonarepublic.com/",
+        "score": "0.671",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.theorangecountyregister.com/",
+        "score": "0.769",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.theplaindealer.com/",
+        "score": "0.671",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.stlouispostdispatch.com/",
+        "score": "0.659",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.milwaukeejournalsentinel.com/",
+        "score": "0.755",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thebuffalonews.com/",
+        "score": "0.694",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thesacramentobee.com/",
+        "score": "0.769",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.kansascitystar.com/",
+        "score": "0.656",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.pittsburghpostgazette.com/",
+        "score": "0.745",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thenewsobserver.com/",
+        "score": "0.71",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thevirginianpilot.com/",
+        "score": "0.726",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.theprovidencejournal.com/",
+        "score": "0.743",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thetennessean.com/",
+        "score": "0.713",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.desmoinesregister.com/",
+        "score": "0.779",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thecourierjournal.com/",
+        "score": "0.792",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.theroanoketimes.com/",
+        "score": "0.694",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thedaytondailynews.com/",
+        "score": "0.66",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.theoklahoman.com/",
+        "score": "0.791",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thegrandrapidspress.com/",
+        "score": "0.791",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thetimespicayune.com/",
+        "score": "0.683",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thecharlestongazettemail.com/",
+        "score": "0.769",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thealbuquerquejournal.com/",
+        "score": "0.76",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thefresnobee.com/",
+        "score": "0.699",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thepressenterprise.com/",
+        "score": "0.709",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thenewsjournal.com/",
+        "score": "0.753",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.theomahaworldherald.com/",
+        "score": "0.688",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thetampabaytimes.com/",
+        "score": "0.717",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.theknoxvillenewssentinel.com/",
+        "score": "0.792",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thelexingtonheraldleader.com/",
+        "score": "0.733",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thefortworthstartelegram.com/",
+        "score": "0.783",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thesaltlaketribune.com/",
+        "score": "0.782",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thewichitaeagle.com/",
+        "score": "0.741",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thedemocratandchronicle.com/",
+        "score": "0.7",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thecommercialappeal.com/",
+        "score": "0.716",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thelancasternews.com/",
+        "score": "0.674",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thehartfordcourant.com/",
+        "score": "0.703",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.theasburyparkpress.com/",
+        "score": "0.733",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.theaugustachronicle.com/",
+        "score": "0.707",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thebatonrougeadvocate.com/",
+        "score": "0.696",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thebirminghamnews.com/",
+        "score": "0.714",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thefloridatimesunion.com/",
+        "score": "0.707",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.theidahostatesman.com/",
+        "score": "0.69",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.theindianapolisstar.com/",
+        "score": "0.73",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thelouisvillecourierjournal.com/",
+        "score": "0.757",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.themacontelegraph.com/",
+        "score": "0.762",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.themobileregister.com/",
+        "score": "0.763",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.themontgomeryadvertiser.com/",
+        "score": "0.722",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.theorlandosentinel.com/",
+        "score": "0.678",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thepalmbeachpost.com/",
+        "score": "0.762",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thepatriotnews.com/",
+        "score": "0.771",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thepostcrescent.com/",
+        "score": "0.679",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thepoststandard.com/",
+        "score": "0.757",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.therenogazettejournal.com/",
+        "score": "0.675",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.therichmondtimesdispatch.com/",
+        "score": "0.731",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.therockfordregisterstar.com/",
+        "score": "0.76",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thesanangelostandardtimes.com/",
+        "score": "0.789",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thesandiegouniontribune.com/",
+        "score": "0.678",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thesavannahmorningnews.com/",
+        "score": "0.69",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.theshreveporttimes.com/",
+        "score": "0.745",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thesouthbendtribune.com/",
+        "score": "0.749",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thespringfieldnewsleader.com/",
+        "score": "0.765",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thestatesmanjournal.com/",
+        "score": "0.708",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thetallahasseedemocrat.com/",
+        "score": "0.794",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thetoledoblade.com/",
+        "score": "0.723",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thetulsaworld.com/",
+        "score": "0.724",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.washingtonexaminer.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.thedispatch.com/",
+        "score": "0.776",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thebulwark.com/",
+        "score": "0.709",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.theamericanconservative.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.thespectator.com/",
+        "score": "0.73",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thenewrepublic.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.theprogressive.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.theforward.com/",
+        "score": "0.668",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.theirishtimes.com/",
+        "score": "0.714",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.theage.com/",
+        "score": "0.74",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thesydneymorningherald.com/",
+        "score": "0.652",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.theglobeandmail.com/",
+        "score": "0.687",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thetorontostar.com/",
+        "score": "0.779",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thenationalpost.com/",
+        "score": "0.789",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.lemonde.com/",
+        "score": "0.758",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.lefigaro.com/",
+        "score": "0.663",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.derspiegel.com/",
+        "score": "0.797",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.diezeit.com/",
+        "score": "0.69",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.frankfurterallgemeinezeitung.com/",
+        "score": "0.695",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.elpais.com/",
+        "score": "0.705",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.larepubblica.com/",
+        "score": "0.652",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.corrieredellasera.com/",
+        "score": "0.678",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thejapantimes.com/",
+        "score": "0.715",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thekoreaherald.com/",
+        "score": "0.66",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thestraitstimes.com/",
+        "score": "0.708",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thehindu.com/",
+        "score": "0.791",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thetimesofindia.com/",
+        "score": "0.791",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.theaustralian.com/",
+        "score": "0.767",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thenewzealandherald.com/",
+        "score": "0.669",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thestar.com/",
+        "score": "0.684",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thejerusalempost.com/",
+        "score": "0.655",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.haaretz.com/",
+        "score": "0.746",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.themoscowtimes.com/",
+        "score": "0.737",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thesouthchinamorningpost.com/",
+        "score": "0.738",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thephnompenhpost.com/",
+        "score": "0.769",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thebangkokpost.com/",
+        "score": "0.759",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thejakartapost.com/",
+        "score": "0.749",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.themanilatimes.com/",
+        "score": "0.707",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thedawn.com/",
+        "score": "0.753",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thenationthailand.com/",
+        "score": "0.689",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thevietnamnews.com/",
+        "score": "0.719",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.theexpresstribune.com/",
+        "score": "0.653",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.theguardiannigeria.com/",
+        "score": "0.744",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thenationkenya.com/",
+        "score": "0.711",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thestandardkenya.com/",
+        "score": "0.74",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thestarmalaysia.com/",
+        "score": "0.779",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thesunnigeria.com/",
+        "score": "0.66",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.jacobin.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.theamericanthinker.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.mittechnologyreview.com/",
+        "score": "0.9",
+        "bias": "Pro-Science"
+    },
+    {
+        "website": "https://www.theyoungturks.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.prageru.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.snopes.com/",
+        "score": "0.656",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.politifact.com/",
+        "score": "0.748",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.factcheckorg.com/",
+        "score": "1",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.zerohedge.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.naturalnews.com/",
+        "score": "0.1",
+        "bias": "Conspiracy"
+    },
+    {
+        "website": "https://www.wnd.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.americanmagazine.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.theroot.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.jezebel.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.occupycom.com/",
+        "score": "0.3",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.theonion.com/",
+        "score": "0.668",
+        "bias": "Satire"
+    },
+    {
+        "website": "https://www.babylonbee.com/",
+        "score": "0.749",
+        "bias": "Satire"
+    },
+    {
+        "website": "https://www.medicalnewstoday.com/",
+        "score": "0.9",
+        "bias": "Pro-Science"
+    },
+    {
+        "website": "https://www.mayoclinic.com/",
+        "score": "1",
+        "bias": "Pro-Science"
+    },
+    {
+        "website": "https://www.webmd.com/",
+        "score": "0.9",
+        "bias": "Pro-Science"
+    },
+    {
+        "website": "https://www.nih.com/",
+        "score": "1",
+        "bias": "Pro-Science"
+    },
+    {
+        "website": "https://www.cdc.com/",
+        "score": "1",
+        "bias": "Pro-Science"
+    },
+    {
+        "website": "https://www.who.com/",
+        "score": "1",
+        "bias": "Pro-Science"
+    },
+    {
+        "website": "https://www.sciencemagazine.com/",
+        "score": "1",
+        "bias": "Pro-Science"
+    },
+    {
+        "website": "https://www.thescientist.com/",
+        "score": "0.9",
+        "bias": "Pro-Science"
+    },
+    {
+        "website": "https://www.rollingstone.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.vanityfair.com/",
+        "score": "0.5",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.gq.com/",
+        "score": "0.5",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.esquire.com/",
+        "score": "0.5",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.peoplemagazine.com/",
+        "score": "0.725",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.entertainmentweekly.com/",
+        "score": "0.726",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.variety.com/",
+        "score": "0.69",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.hollywoodreporter.com/",
+        "score": "0.718",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.billboard.com/",
+        "score": "0.703",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.nationalenquirer.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.globe.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.dailystar.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.themirror.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.metro.com/",
+        "score": "0.747",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.theexpress.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.eveningstandard.com/",
+        "score": "0.714",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thescotsman.com/",
+        "score": "0.657",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.theheraldscotland.com/",
+        "score": "0.667",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.dailyrecord.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.thecourier.com/",
+        "score": "0.696",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.yorkshirepost.com/",
+        "score": "0.763",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.theobserver.com/",
+        "score": "0.78",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.sundaytimes.com/",
+        "score": "0.767",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.themailonsunday.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.dailyexpress.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.thesundaytelegraph.com/",
+        "score": "0.651",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.financemonthly.com/",
+        "score": "0.752",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.themotleyfool.com/",
+        "score": "0.723",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.marketwatch.com/",
+        "score": "0.695",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.fortune.com/",
+        "score": "0.68",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.incmagazine.com/",
+        "score": "0.757",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.entrepreneur.com/",
+        "score": "0.736",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.businessinsider.com/",
+        "score": "0.684",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.cnbc.com/",
+        "score": "0.658",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.kiplinger.com/",
+        "score": "0.7",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.barrons.com/",
+        "score": "0.724",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.investopedia.com/",
+        "score": "0.9",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.moneymagazine.com/",
+        "score": "0.793",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.thestreet.com/",
+        "score": "0.728",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.zdnet.com/",
+        "score": "0.9",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.cnet.com/",
+        "score": "0.9",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.engadget.com/",
+        "score": "0.741",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.gizmodo.com/",
+        "score": "0.667",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.mashable.com/",
+        "score": "0.714",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.recode.com/",
+        "score": "0.658",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.digitaltrends.com/",
+        "score": "0.9",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.pcmag.com/",
+        "score": "0.9",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.tomdispatch.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.nakedcapitalism.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.wsws.com/",
+        "score": "0.3",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.globalresearch.com/",
+        "score": "0.1",
+        "bias": "Conspiracy"
+    },
+    {
+        "website": "https://www.veteranstoday.com/",
+        "score": "0.1",
+        "bias": "Conspiracy"
+    },
+    {
+        "website": "https://www.activistpost.com/",
+        "score": "0.3",
+        "bias": "Conspiracy"
+    },
+    {
+        "website": "https://www.21stcenturywire.com/",
+        "score": "0.3",
+        "bias": "Conspiracy"
+    },
+    {
+        "website": "https://www.theduran.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.sputniknews.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.rtnews.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.tass.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.xinhuanewsagency.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.globaltimes.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.chinadaily.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.epochtimes.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.brighteon.com/",
+        "score": "0.1",
+        "bias": "Conspiracy"
+    },
+    {
+        "website": "https://www.thelibertydaily.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.conservativebrief.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.westernjournal.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.dailysignal.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.federalistpapers.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.americasfrontlinedoctors.com/",
+        "score": "0.1",
+        "bias": "Conspiracy"
+    },
+    {
+        "website": "https://www.lifesitenews.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.projectveritas.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.turningpointusa.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.dailystormer.com/",
+        "score": "0.1",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.vdare.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.americanrenaissance.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.centerforimmigrationstudies.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.manhattaninstitute.com/",
+        "score": "0.788",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.hooverinstitution.com/",
+        "score": "0.681",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.brookingsinstitution.com/",
+        "score": "0.775",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.centerforamericanprogress.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.opendemocracy.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.zmagazine.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.inthesetimes.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.dissentmagazine.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.americanprospect.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.monthlyreview.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.thenation.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.harpersmagazine.com/",
+        "score": "0.722",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.foreignaffairs.com/",
+        "score": "0.799",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.councilonforeignrelations.com/",
+        "score": "0.738",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.thediplomat.com/",
+        "score": "0.704",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.almonitor.com/",
+        "score": "0.708",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.middleeasteye.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.thegrayzone.com/",
+        "score": "0.3",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.mondoweiss.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.jewishvoiceforpeace.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.antiwarcom.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.ronpaulinstitute.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.lewrockwell.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.misesinstitute.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.randcorporation.com/",
+        "score": "0.713",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.asiatimes.com/",
+        "score": "0.679",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.nikkeiasia.com/",
+        "score": "0.662",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.yonhapnews.com/",
+        "score": "0.657",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.asahishimbun.com/",
+        "score": "0.727",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.mainichishimbun.com/",
+        "score": "0.779",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.yomiurishimbun.com/",
+        "score": "0.687",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.sankeishimbun.com/",
+        "score": "0.67",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.kyodonews.com/",
+        "score": "0.9",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.ansa.com/",
+        "score": "0.732",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.agi.com/",
+        "score": "0.762",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.dpa.com/",
+        "score": "0.9",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.afp.com/",
+        "score": "0.9",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.efe.com/",
+        "score": "0.696",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.abces.com/",
+        "score": "0.747",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.lavanguardia.com/",
+        "score": "0.716",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.mundodeportivo.com/",
+        "score": "0.73",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.20minutos.com/",
+        "score": "0.773",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.eldiarioes.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.publico.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.lesoir.com/",
+        "score": "0.677",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.demorgen.com/",
+        "score": "0.695",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.hetnieuwsblad.com/",
+        "score": "0.772",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.diewelt.com/",
+        "score": "0.78",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.suddeutschezeitung.com/",
+        "score": "0.756",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.bild.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.kroneat.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.derstandard.com/",
+        "score": "0.798",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.neuezurcherzeitung.com/",
+        "score": "0.678",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.tagesanzeiger.com/",
+        "score": "0.796",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.letemps.com/",
+        "score": "0.661",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.dagensnyheter.com/",
+        "score": "0.672",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.aftonbladet.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.expressen.com/",
+        "score": "0.766",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.helsinginsanomat.com/",
+        "score": "0.768",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.yle.com/",
+        "score": "0.9",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.vgno.com/",
+        "score": "0.664",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.aftenposten.com/",
+        "score": "0.771",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.dagbladet.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.drdk.com/",
+        "score": "0.9",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.politiken.com/",
+        "score": "0.726",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.jyllandsposten.com/",
+        "score": "0.701",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.berlingske.com/",
+        "score": "0.697",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.nrchandelsblad.com/",
+        "score": "0.684",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.devolkskrant.com/",
+        "score": "0.714",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.telegraaf.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.algemeendagblad.com/",
+        "score": "0.774",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.nosnl.com/",
+        "score": "0.9",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.publicopt.com/",
+        "score": "0.704",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.expresso.com/",
+        "score": "0.738",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.diariodenoticias.com/",
+        "score": "0.799",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.jornaldenoticias.com/",
+        "score": "0.663",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.gazetawyborcza.com/",
+        "score": "0.687",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.rzeczpospolita.com/",
+        "score": "0.752",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.dziennikgazetaprawna.com/",
+        "score": "0.734",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.pravo.com/",
+        "score": "0.663",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.lidovenoviny.com/",
+        "score": "0.655",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.hospodarskenoviny.com/",
+        "score": "0.682",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.nepszava.com/",
+        "score": "0.69",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.magyarnemzet.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.gazetaromaneasca.com/",
+        "score": "0.686",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.libertatea.com/",
+        "score": "0.701",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.zfro.com/",
+        "score": "0.748",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.novayagazeta.com/",
+        "score": "0.723",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.kommersant.com/",
+        "score": "0.752",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.rossiyskayagazeta.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.pravda.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.hurriyet.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.sabah.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.cumhuriyet.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.sozcu.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.alakhbar.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.annahar.com/",
+        "score": "0.677",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.dailystarlebanon.com/",
+        "score": "0.758",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.almasryalyoum.com/",
+        "score": "0.782",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.alahram.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.youm7.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.alqudsalarabi.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.asharqalawsat.com/",
+        "score": "0.79",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.khaleejtimes.com/",
+        "score": "0.785",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.gulfnews.com/",
+        "score": "0.786",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thenationaluae.com/",
+        "score": "0.666",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.dawn.com/",
+        "score": "0.743",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thenewsinternational.com/",
+        "score": "0.751",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.geotv.com/",
+        "score": "0.725",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.arynews.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.dailyjang.com/",
+        "score": "0.716",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.indianexpress.com/",
+        "score": "0.708",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.hindustantimes.com/",
+        "score": "0.655",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.thepioneer.com/",
+        "score": "0.5",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.deccanchronicle.com/",
+        "score": "0.668",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.thetribuneindia.com/",
+        "score": "0.74",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.statesman.com/",
+        "score": "0.782",
+        "bias": "Left-Center"
+    },
+    {
+        "website": "https://www.commondreams.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.theblaze.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.statnews.com/",
+        "score": "0.9",
+        "bias": "Pro-Science"
+    },
+    {
+        "website": "https://www.truthdig.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.newsbusters.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.hoaxslayer.com/",
+        "score": "0.9",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.leadstories.com/",
+        "score": "0.9",
+        "bias": "Least Biased"
+    },
+    {
+        "website": "https://www.checkyourfact.com/",
+        "score": "0.662",
+        "bias": "Right-Center"
+    },
+    {
+        "website": "https://www.beforeitsnews.com/",
+        "score": "0.1",
+        "bias": "Conspiracy"
+    },
+    {
+        "website": "https://www.worldtruthtv.com/",
+        "score": "0.1",
+        "bias": "Conspiracy"
+    },
+    {
+        "website": "https://www.americanheraldtribune.com/",
+        "score": "0.3",
+        "bias": "Conspiracy"
+    },
+    {
+        "website": "https://www.thefreedomtimes.com/",
+        "score": "0.3",
+        "bias": "Right"
+    },
+    {
+        "website": "https://www.ebony.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.bustle.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.upworthy.com/",
+        "score": "0.5",
+        "bias": "Left"
+    },
+    {
+        "website": "https://www.thehardtimes.com/",
+        "score": "0.692",
+        "bias": "Satire"
+    },
+    {
+        "website": "https://www.reductress.com/",
+        "score": "0.77",
+        "bias": "Satire"
+    },
+    {
+        "website": "https://www.health.com/",
+        "score": "0.9",
+        "bias": "Pro-Science"
+    },
+    {
+        "website": "https://www.medscape.com/",
+        "score": "1",
+        "bias": "Pro-Science"
+    },
+    {
+        "website": "https://www.wikipedia.com/",
+        "score": "0.8",
+        "bias": "Least Biased"
+    }
+]
