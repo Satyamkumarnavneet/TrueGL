@@ -67,10 +67,13 @@ This repository contains the complete implementation of TrueGL, including:
 - [Data Generation](#data-generation)
 - [API Documentation](#api-documentation)
 - [Contributing](#contributing)
+- [Demo & Screenshots](#demo--screenshots)
 - [Citation](#citation)
 - [License](#license)
 
 ## 🚀 Features
+
+<a id="features"></a>
 
 <div align="center">
 
@@ -137,6 +140,8 @@ This repository contains the complete implementation of TrueGL, including:
 
 ## 🏗️ Architecture
 
+<a id="architecture"></a>
+
 ```
 TrueGL Architecture
 ├── Frontend (React + TypeScript)
@@ -158,6 +163,8 @@ TrueGL Architecture
 ```
 
 ## 🛠️ Installation
+
+<a id="installation"></a>
 
 ### Prerequisites
 - Python 3.8+
@@ -197,6 +204,8 @@ python scripts/download_models.py
 
 ## ⚡ Quick Start
 
+<a id="quick-start"></a>
+
 ### Running the Application
 
 1. **Start the Backend**
@@ -229,6 +238,8 @@ print(f"Truth Score: {score:.3f}")  # Output: Truth Score: 0.892
 ```
 
 ## 📁 Project Structure
+
+<a id="project-structure"></a>
 
 ```
 TrueGL/
@@ -264,6 +275,8 @@ TrueGL/
 ```
 
 ## 💻 Usage
+
+<a id="usage"></a>
 
 ### Web Interface
 
@@ -309,6 +322,8 @@ python -m truegl.cli serve --port 8000
 
 ## 🎯 Model Training
 
+<a id="model-training"></a>
+
 ### Fine-tuning the Granite Model
 
 ```bash
@@ -338,6 +353,8 @@ Key parameters for model training:
 
 ## 📊 Evaluation
 
+<a id="evaluation"></a>
+
 ### Running Evaluations
 
 1. **LLM-based Evaluation**
@@ -361,6 +378,8 @@ python rule-based.py --input_file "test_data.csv" --output_dir "results/"
 - **Precision/Recall for binary classification**
 
 ## 🗃️ Data Generation
+
+<a id="data-generation"></a>
 
 ### Creating Training Data
 
@@ -387,6 +406,8 @@ python New_Articles_Generation.py \
 - **News Articles**: Real news with reliability annotations
 
 ## 📖 API Documentation
+
+<a id="api-documentation"></a>
 
 ### REST API Endpoints
 
@@ -439,6 +460,8 @@ POST /api/assess/batch
 
 ## 🤝 Contributing
 
+<a id="contributing"></a>
+
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
 ### Development Setup
@@ -456,6 +479,8 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 - **Documentation**: Use clear docstrings and comments
 
 ## 🎯 Demo & Screenshots
+
+<a id="demo--screenshots"></a>
 
 ### Search Interface
 <div align="center">
@@ -484,6 +509,8 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ## 📄 Citation
 
+<a id="citation"></a>
+
 If you use TrueGL in your research, please cite our paper:
 
 ```bibtex
@@ -500,5 +527,6 @@ If you use TrueGL in your research, please cite our paper:
 
 ## 📄 License
 
+<a id="license"></a>
+
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
----
